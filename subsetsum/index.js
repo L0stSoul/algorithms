@@ -12,7 +12,7 @@ function step(numbers, sum, currentSum, index, state, result) {
         return;
     }
 
-    if (currentSum > sum || index === numbers.length) {
+    if (index === numbers.length) {
         return;
     }
 
