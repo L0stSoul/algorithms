@@ -1,0 +1,23 @@
+{
+  "name": "algorithms",
+  "version": "0.1.0",
+  "description": "various algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:L0stSoul/algorithms.git"
+  },
+  "keywords": [
+    "algorithms",
+    "subsetsum"
+  ],
+  "author": "Denis Payas",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "~2.5.3",
+    "chai": "~3.5.0"
+  }
+}
